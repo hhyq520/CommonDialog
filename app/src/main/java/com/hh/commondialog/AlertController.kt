@@ -9,9 +9,6 @@ import android.view.View
 import android.view.ViewGroup
 import android.view.Window
 
-/**
- * Created by mou on 2017/12/3.
- */
 
 class AlertController(val dialog: CommonDialog, val window: Window) {
 

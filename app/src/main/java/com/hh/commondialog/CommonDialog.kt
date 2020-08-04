@@ -10,9 +10,6 @@ import android.view.ViewGroup
 import com.hh.commondialog.R
 
 
-/**
- * Created by mou on 2017/12/3.
- */
 
 /**
  * CommonDialog使用说明

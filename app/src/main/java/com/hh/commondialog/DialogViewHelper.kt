@@ -8,9 +8,6 @@ import android.widget.TextView
 
 import java.lang.ref.WeakReference
 
-/**
- * Created by mou on 2017/12/3.
- */
 
 public class DialogViewHelper() {
     var contentView: View? = null
